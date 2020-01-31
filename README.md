@@ -22,3 +22,4 @@ $ python3 server.py
   ...
 </head>
 ```
+python3 -m http.server 3000
